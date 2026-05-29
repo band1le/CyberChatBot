@@ -9,13 +9,12 @@
 ---
 
 ## GitHub Repository
-
+https://github.com/band1le/CyberChatBot.git
 
 ---
 
 ## Video Presentation
-[YouTube Video Link - Will be added after recording]
-
+https://youtu.be/M6p4DWpBbH8
 ---
 
 ## Project Overview
