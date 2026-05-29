@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../CyberChatBotWPF/CyberChatBotWPF/CyberChatBotWPF.csproj" />
+  <Project Path="CyberChat/CyberChat.csproj" Id="0375fb6e-4662-4577-8b43-a5c73541b4e3" />
   <Project Path="CyberChatBot/CyberChatBot.csproj" />
 </Solution>
